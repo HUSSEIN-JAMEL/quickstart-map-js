@@ -6,6 +6,9 @@ These are a set of simple samples that show you how to accomplish different mapp
 
 ![App](https://raw.github.com/Esri/quickstart-map-js/master/quickstart-map-js.png)
 
+This is the best app ever!
+
+
 ## Features
 * Basemaps - Set different basemaps interactively
 * Geolocation - Find and display your geolocation
